@@ -1,0 +1,68 @@
+Contents
+
+Prologue
+
+1 Can a computer have a mind?
+Introduction
+The Turing test
+Artiﬁcial intelligence
+An Al approach to ‘pleasure’ and ‘pain’
+Strong AI and Searle’s Chinese room
+Hardware and software
+
+2 Algorithms and Turing machines
+Background to the algorithm concept
+Turing’s concept
+Binary coding of numerical data
+The ChurcheTurin g Thesis
+Numbers other than natural numbers
+The universal Turing machine-
+
+The insolubility of Hilbert’s problem
+How to outdo an. algorithm
+Church’s lambda calculus
+
+3 Mathematics and reality
+The land of Tor’BIedNam' '
+Real numbers
+How many real numbers are there?
+Reality” of real numbers
+
+Complex numbers
+Construction of the Mandelbrot set
+Platonic reality of mathemahcal concepts?
+
+4 Truth, proof, and insight
+Hilbert“ s pragmmme for mathematics
+Formal mathematical systems
+Gﬁdel's theorem” -
+Mathematical iﬂsight
+.Platenism er intultlemsm'? ..
+Godelwtype theerem‘s fmm Tnnng 5' resuII
+'- Recumvely enumerable sets
+
+. _.. - Is the Mandelbmt set reenrswe‘?
+‘ _'..Seme examples (3f. nonurecurswe mathematics
+
+- 3- ’ _; Is the Mandelbrot set hke nen-reeurswe mathematics“?
+
+ 
+
+.:J-::
+
+_.. .-'._.
+
+- Ia." .:.-._
+
+.-.-- ::::
+..
+
+T ''''''
+
+.---'-~:
+
+. . "H's"
+
+_..:r .; 1.
+
+F;

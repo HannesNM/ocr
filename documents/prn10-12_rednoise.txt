@@ -1,0 +1,15 @@
+4 Truth, proof, and insight 99
+
+Hilbert‘s programme for mathematics 99
+FOrmal mathematical systems 102
+Gc'idel‘s theorem 105
+Mathematical insight 108
+Platonism or intuitionism? 112
+GédeI—type theorems from Turing‘s result 116
+Recursively enumerable sets 118
+IS the Mandelbrot set recursive? 124
+Some examples of non‘recursivc mathematics 129
+151116 Mandelbrot set like non—recursive mathematics? 138
+Compfexity theory 140
+
+Complexity and computability in physical things 145
